@@ -6,6 +6,9 @@
 - 📫 Please feel free to reach out to me via social media.
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raftxo-wysocki)
+[![Email](https://img.shields.io/badge/Email%20Me-orange)](mailto:raftxo.mx@gmail.com)
+
+
 
 <!---
 Raftxo-MX/Raftxo-MX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
